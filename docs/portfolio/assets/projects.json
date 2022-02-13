@@ -1,0 +1,10 @@
+{
+  "projects": [
+    {
+      "preview": "assets/media/projects/portfolio.png",
+      "created_at": "2019-07-20T14:18:15.923+02:00",
+      "name": "My Portfolio",
+      "description": "Angular page for my Portfolio"
+    }
+  ]
+}

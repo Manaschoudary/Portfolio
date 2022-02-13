@@ -1,0 +1,35 @@
+{
+  "email": "manas.adusumilli12@gmail.com",
+  "location": "Dallas, TX, USA",
+  "name": "Manas Choudary Adusumilli",
+  "phone": "+1 469 927 3830",
+  "avatar": "assets/media/images/pro_offerzen.jpg",
+  "education": [
+    {
+      "title": "Bachelor of Technology in Computer Science(CS)",
+      "meta": "GITAM University,  July 2016 – July 2020"
+    },
+    {
+      "title": "Masters Of Science(MSc) in Information Technology and Management",
+      "meta": "University Of Texas at Dallas(UTD),  August 2021 – December 2022"
+    }
+  ],
+  "about": "I consider myself a value adder. I resolute to being a key asset of objective teams while seeking value from colleagues to add to my strengths. I love computer science and information technology.\n\nI have acquired experience building industry standard, production ready applications from working as a full time software developer and being a full time technology hobbyist.",
+  "socials": [
+    {
+      "name": "manas.adusumilli12@gmail.com",
+      "link": "mailto:manas.adusumilli12@gmail.com",
+      "icon": "fa fa-envelope"
+    },
+    {
+      "name": "Github",
+      "link": "https://github.com/Manaschoudary",
+      "icon": "fab fa-github"
+    },
+    {
+      "name": "LinkedIn",
+      "link": "https://www.linkedin.com/in/manas-adusumilli/",
+      "icon": "fab fa-linkedin"
+    }
+  ]
+}

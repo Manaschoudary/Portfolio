@@ -1,0 +1,39 @@
+{
+  "work": [
+    {
+      "date": "August 2020 - August 2021",
+      "title": "Associate Software Developer at CGI",
+      "description": "Java Full Stack Developer",
+      "stack": [
+        "Angular",
+        "Node.js",
+        "npm",
+        "Git",
+        "JavaScript",
+        "TypeScript",
+        "HTML",
+        "CSS",
+        "Bootstrap",
+        "Spring boot",
+        "Postman",
+        "python",
+        "Java",
+        "AWS",
+        "Amazon EC2",
+        "MySQL"
+      ]
+    },
+    {
+      "date": "November 2019 - April 2020",
+      "title": "Angular Developement Intern at Seneca Global",
+      "description": "Develped an Angular tool for the treatment and analysis of Autism kids.",
+      "stack": [
+        "Python",
+        "Angular",
+        "TypeScript",
+        "Google Dialog flow",
+        "HTML",
+        "CSS"
+      ]
+    }  ]
+}
